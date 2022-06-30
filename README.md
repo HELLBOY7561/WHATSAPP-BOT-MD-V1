@@ -1,7 +1,7 @@
 # WHATSAPP-BOT-MD-V1
 MD VERSION 
 
-![Banner](592c722e0717b1c01656e0395f067e45.jpg) <br />
+![Banner](73cf8299b77f5ee8bb6ee9a3259efc2a.jpg) <br />
 
 ### WhatsApp MD user bot
 

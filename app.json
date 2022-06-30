@@ -12,7 +12,7 @@
     "env":{
 
 	},
-	],
+	
 	"repository": "https://github.com/HELLBOY7561/WHATSAPP-BOT-MD-V1",
 	"stack": "container",
 	"env": {
